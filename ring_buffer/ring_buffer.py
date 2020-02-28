@@ -9,6 +9,10 @@ class RingBuffer:
 
     def append(self, item):
         pass
+        # if capacity is greater than storage length
+            # add item to tail
+
+        # if capacity is equal to storage length
 
     def get(self):
         # Note:  This is the only [] allowed
